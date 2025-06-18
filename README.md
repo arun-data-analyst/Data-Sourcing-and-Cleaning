@@ -30,3 +30,11 @@ This project demonstrates real-world data sourcing and cleaning techniques using
    ```bash
    git clone https://github.com/arun-data-analyst/Data-Sourcing-and-Cleaning.git
    cd Data-Sourcing-and-Cleaning
+   ```
+
+2. Install the Python packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Open the notebooks in Jupyter Lab or any Python IDE
