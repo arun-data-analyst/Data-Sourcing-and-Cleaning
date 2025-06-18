@@ -38,3 +38,8 @@ This project demonstrates real-world data sourcing and cleaning techniques using
    ```
 
 3. Open the notebooks in Jupyter Lab or any Python IDE
+
+## 🧠 Author
+
+**Arun Acharya**  
+Data Analyst in training | Willis College
